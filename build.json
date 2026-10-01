@@ -1,0 +1,134 @@
+{
+  "version": 1,
+  "commands": [
+    {
+      "kind": "SpawnColor",
+      "color": [
+        0,
+        255,
+        0
+      ]
+    },
+    {
+      "kind": "Part",
+      "name": "BenchSeat",
+      "position": [
+        12,
+        2,
+        0
+      ],
+      "size": [
+        6,
+        0.6,
+        2
+      ],
+      "color": [
+        30,
+        30,
+        35
+      ],
+      "material": "SmoothPlastic"
+    },
+    {
+      "kind": "Part",
+      "name": "BenchLeftLeg",
+      "position": [
+        10,
+        1,
+        0
+      ],
+      "size": [
+        0.4,
+        1.5,
+        1.5
+      ],
+      "color": [
+        120,
+        120,
+        125
+      ],
+      "material": "Metal"
+    },
+    {
+      "kind": "Part",
+      "name": "BenchRightLeg",
+      "position": [
+        14,
+        1,
+        0
+      ],
+      "size": [
+        0.4,
+        1.5,
+        1.5
+      ],
+      "color": [
+        120,
+        120,
+        125
+      ],
+      "material": "Metal"
+    },
+    {
+      "kind": "Part",
+      "name": "Barbell",
+      "position": [
+        12,
+        4,
+        0
+      ],
+      "size": [
+        8,
+        0.25,
+        0.25
+      ],
+      "color": [
+        190,
+        190,
+        195
+      ],
+      "material": "Metal",
+      "canCollide": false
+    },
+    {
+      "kind": "Part",
+      "name": "LeftWeight",
+      "position": [
+        8.8,
+        4,
+        0
+      ],
+      "size": [
+        0.6,
+        2.3,
+        2.3
+      ],
+      "color": [
+        35,
+        35,
+        40
+      ],
+      "material": "Metal"
+    },
+    {
+      "kind": "Part",
+      "name": "RightWeight",
+      "position": [
+        15.2,
+        4,
+        0
+      ],
+      "size": [
+        0.6,
+        2.3,
+        2.3
+      ],
+      "color": [
+        35,
+        35,
+        40
+      ],
+      "material": "Metal"
+    }
+  ]
+}
