@@ -5,8 +5,8 @@
       "kind": "SpawnColor",
       "color": [
         0,
-        255,
-        0
+        100,
+        255
       ]
     },
     {
@@ -129,6 +129,26 @@
         40
       ],
       "material": "Metal"
+    },
+    {
+      "kind": "Part",
+      "name": "WhiteGround",
+      "position": [
+        0,
+        -0.05,
+        0
+      ],
+      "size": [
+        200,
+        0.2,
+        200
+      ],
+      "color": [
+        255,
+        255,
+        255
+      ],
+      "material": "SmoothPlastic"
     }
   ]
 }
